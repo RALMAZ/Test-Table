@@ -1,4 +1,4 @@
-# Memory game (Test task)
+# Test table
   
 <p align="center">
 <img src="https://s22.postimg.cc/e32adqepd/preview.png">
